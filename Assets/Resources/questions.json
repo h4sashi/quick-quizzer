@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "questionText": "ABA_US",
+      "answers": ["C", "T", "R", "N"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "ABA_ED",
+      "answers": ["S", "T", "C", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "ABA_ES",
+      "answers": ["S", "T", "D", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "ABA_ED",
+      "answers": ["T", "S", "R", "N"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "ABA_ES",
+      "answers": ["T", "S", "R", "D"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "ABB_YS",
+      "answers": ["E", "A", "O", "U"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "ABB_TS",
+      "answers": ["O", "E", "A", "I"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BO_CAT",
+      "answers": ["B", "D", "M", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOD_GA",
+      "answers": ["E", "I", "A", "O"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOD_CE",
+      "answers": ["I", "E", "A", "U"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOD_ED",
+      "answers": ["I", "A", "E", "O"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOD_ES",
+      "answers": ["I", "A", "E", "Y"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOD_LY",
+      "answers": ["I", "E", "A", "U"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOD_NG",
+      "answers": ["I", "E", "A", "Y"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOD_IN",
+      "answers": ["K", "M", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOG_RT",
+      "answers": ["A", "E", "I", "U"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOG_ED",
+      "answers": ["G", "T", "R", "N"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOG_LE",
+      "answers": ["G", "T", "D", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOI_ED",
+      "answers": ["L", "N", "R", "T"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOI_ER",
+      "answers": ["L", "N", "T", "D"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOL_ER",
+      "answers": ["D", "T", "N", "M"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOL_LY",
+      "answers": ["D", "T", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOL_ED",
+      "answers": ["T", "D", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOM_ED",
+      "answers": ["B", "T", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BOM_ER",
+      "answers": ["B", "T", "N", "D"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BON_ON",
+      "answers": ["B", "D", "N", "T"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "BON_ED",
+      "answers": ["D", "T", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_RY",
+      "answers": ["A", "E", "O", "U"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_EL",
+      "answers": ["C", "D", "N", "T"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_ER",
+      "answers": ["C", "T", "D", "N"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_ID",
+      "answers": ["D", "T", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_LE",
+      "answers": ["D", "T", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_OR",
+      "answers": ["D", "T", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_NE",
+      "answers": ["I", "E", "A", "O"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_NG",
+      "answers": ["I", "E", "A", "O"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_ED",
+      "answers": ["N", "T", "D", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_ER",
+      "answers": ["N", "T", "D", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_ON",
+      "answers": ["N", "T", "D", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CAN_OT",
+      "answers": ["N", "T", "D", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "CEN_ER",
+      "answers": ["T", "D", "N", "R"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "UNC_OG",
+      "answers": ["L", "T", "R", "N"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "UNC_IL",
+      "answers": ["O", "E", "A", "U"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "UNC_OL",
+      "answers": ["O", "E", "A", "I"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "UNC_RK",
+      "answers": ["O", "E", "A", "I"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "UNC_FF",
+      "answers": ["U", "O", "A", "I"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "UND_AD",
+      "answers": ["E", "A", "I", "O"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "UND_ES",
+      "answers": ["I", "E", "A", "O"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "ZYG_TE",
+      "answers": ["O", "A", "E", "I"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
